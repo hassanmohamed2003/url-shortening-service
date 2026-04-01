@@ -61,3 +61,5 @@ java -jar target/url-shortening-service-0.0.1-SNAPSHOT.jar
 - `DELETE /shorten/{code}` - delete a short URL
 - `GET /shorten/{code}/stats` - get usage stats
 - `GET /{code}` - redirect to the original URL
+
+https://roadmap.sh/projects/url-shortening-service
